@@ -1,0 +1,33 @@
+These videos are recorded from a total of 20 persons in MP4 format. The naming template of each mp4 is L_S_D_x_E_p_N (seven sections connected with ‘_’). Each section is introduced as follows:
+
+1. The first section ‘L’ could by any one of the follow 9 strings:
+  1) G - ‘G’ indicates a genuine person.
+  2) Ps - ‘Ps’ indicates a still printed paper.
+  3) Pq - ‘Pq’ indicates a quivering printed paper.
+  4) Vl - ‘Vl’ indicates a video which records a lenovo LCD display.
+  5) Vm - ‘Vm’ indicates a video which records a Mac LCD display.
+  6) Mc - ‘Mc’ indicates a paper mask with two eyes and mouth cropped out.
+  7) Mf - ‘Mf’ indicates a paper mask without cropping.
+  8) Mu - ‘Mu’ indicates a paper mask with the upper part cut in the middle.
+  9) Ml - ‘Ml’ indicates a paper mask with the lower part cut in the middle.
+
+2. The second section ‘S’ could be any one of the follow 2 strings:
+  1) T - ‘T’ indicates the subject is speaking when recording.
+  2) NT - ‘NT’ indicates the subject is not speaking when recording.
+
+3) The third section ‘D’ indicates the devices recording the videos, and it could be any one of the follow 5 strings:
+  1) HS - ‘HS’ indicate the video is recorded by a Hasee smart-phone.
+  2) HW - ‘HW’ indicate the video is recorded by a Huawei smart-phone.
+  3) IP - ‘IP’ indicate the video is recorded by an Ipad.
+  4) 5s - ‘5s’ indicate the video is recorded by an Iphone 5s.
+  5) ZTE - ‘ZTE ’indicate the video is recorded by a ZTE smart-phone.
+
+4．The fourth section ‘X’ indicates whether the subject is wearing eyeglasses, and it could be any one of the follow 2 strings:
+  1) g - ‘g’ indicates the subjects is wearing glasses.
+  2) wg - ‘wg’ indicates the subjects is not wearing glasses.
+
+5．The fifth section ‘E’ indicates the background environment when the video is recorded. This section is reserved and has not been set yet.
+
+6．The section ‘p’ indicates the person ID.
+
+7．The last section ‘N’ indicate the file index number.
